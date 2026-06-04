@@ -31,4 +31,4 @@ Serves as a reference implementation for:
 
 ## Research Purposes
 
-Designed for research purposes in an academic setting. The datasets included in this repository (`data_train_midterm_problem6.csv`, `data_test_midterm_problem6.csv`) are dummy datasets, do not represent real Major-League Baseball pitcher data.Penn State University (PSU), IST 557 Data Mining. Fall 2025.
+Designed for research purposes in an academic setting. The datasets included in this repository (`data_train_midterm_problem6.csv`, `data_test_midterm_problem6.csv`) are dummy datasets, do not represent real Major-League Baseball pitcher data. Penn State University (PSU), IST 557 Data Mining. Fall 2025.
