@@ -1,4 +1,4 @@
-# PSU MLBALL Pitcher Prediction
+# Major-League Baseball Pitcher Prediction
 
 This project implements a polynomial regression model to predict pitcher performance metrics using MLB data. The model uses scikit-learn's LinearRegression with PolynomialFeatures (degree=2) to capture non-linear relationships between features x1 and x2 and the target variable y.
 
@@ -31,6 +31,4 @@ Serves as a reference implementation for:
 
 ## Research Purposes
 
-Designed for research purposes in an academic setting. Penn State University (PSU), IST 557 Data Mining. Fall 2025.
-
-**Note**: The datasets included in this repository (`data_train_midterm_problem6.csv`, `data_test_midterm_problem6.csv`) are dummy datasets, do not represent real MLB pitcher data.
+Designed for research purposes in an academic setting. The datasets included in this repository (`data_train_midterm_problem6.csv`, `data_test_midterm_problem6.csv`) are dummy datasets, do not represent real Major-League Baseball pitcher data.Penn State University (PSU), IST 557 Data Mining. Fall 2025.
