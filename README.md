@@ -1,6 +1,6 @@
 # Major-League Baseball Pitcher Prediction
 
-This project implements a polynomial regression model to predict pitcher performance metrics using MLB data. The model uses scikit-learn's Linear Regression with PolynomialFeatures (Degree=2) to capture non-linear relationships between features X1 and X2 and the target variable Y.
+This project implements a polynomial regression model to predict pitcher performance metrics using MLB data. The model uses scikit-learn's Linear Regression with Polynomial Features (Degree=2) to capture non-linear relationships between features X1 and X2 and the target variable Y.
 
 ## Capabilities
 
